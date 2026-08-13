@@ -1,6 +1,6 @@
 # EngiDock Course Notes & Project Labs
 
-Hands-on project labs that accompany the courses on [engidock.com](https://www.engidock.com). Most courses below have a `project-lab.md` with a full guided, real-world project — sourced directly from EngiDock's Project Mastery content where available, or a structured lab brief (objective, prerequisites, steps, deliverable) where it isn't yet.
+Hands-on project labs that accompany the courses on [engidock.com](https://www.engidock.com). Every course below has a `project-lab.md` with a full guided, real-world project — a fictional company, a business problem, phased build-out with real code/config, quizzes, and hands-on extension exercises. Some are sourced directly from EngiDock's Project Mastery content; the rest are written in the same style and depth.
 
 Courses with multiple guided projects (e.g. AWS, Azure, Kubernetes, Terraform) have one `project-lab-*.md` per project, covering fundamentals through advanced topics.
 
@@ -95,12 +95,6 @@ Courses with multiple guided projects (e.g. AWS, Azure, Kubernetes, Terraform) h
 |---|---|
 | Grafana | [`project-lab.md`](./grafana/project-lab.md) |
 | Prometheus | [`project-lab.md`](./prometheus/project-lab.md) |
-
-### Other
-
-| Course | Labs |
-|---|---|
-| .Git | _no lab yet_ |
 
 ### Package Management
 
